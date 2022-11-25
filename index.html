@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="./new.css">
+</head>
+<body>
+  <div class="nav">
+    <ul>
+      <li class="li1">LOGO</li>
+      <div class="nav-right">
+      <li class="li2">About</li>
+      <li class="li3">Blog</li>
+      <li class="li4">Careers</li>
+      <li class="li5">Support</li>
+    </div>
+    </ul>
+  </div>
+    <div class="container">
+      
+        <div>
+        <h1>Always Look</br> On The Bright</br> Side Of Life.
+           </h1>
+       <p class="pp">Lorem ipsum dolor sit amet, consectetur</br> adipisicing elit, sed do euismod tempor</br> incididunt ut lobore.</p>   
+    <button class="btn" type="button" onclick="openPopup()">Login</button>
+    </div>
+    <div class="popup" id="popup">
+        <h2 >Login</h2></br></br>
+        <label>Username</label></br>
+        <input type="text" class="form-control1"/></br></br>
+        <label>Password</label></br>
+        <input type="password" class="form-control2"/></br></br>
+        <a href="">forgot password ?</a></br>
+        <button class="b" type="button" onclick="closePopup()">Login</button>
+    </div>
+    <div class="div1">
+<img src="ui_task_4.svg" width="500" height="500"/></div>
+
+    </div>
+    <div class="container-fluid">
+    <div class="cols">
+        <p class="pbox">Need Help?</p>
+        <p class="p8">We are here to help you.</p>
+        <button class="b1">Contact</button>
+      </div></div>
+      <div class="class1">
+        <div class="col1">
+        <p class="p1"> Lorem ipsum dolor sit</br> amet, consectetur</br> adipisicing elit, sed do</br> euismod tempor</br> incididunt ut lobore.</p>  
+        </div>
+        <div class="col2">
+        <p class="p2"> Lorem ipsum dolor sit</br> amet, consectetur</br> adipisicing elit, sed do</br> euismod tempor</br> incididunt ut lobore.</p>  
+        </div>
+        <div class="col3">
+        <p class="p3"> Lorem ipsum dolor sit</br> amet, consectetur</br> adipisicing elit, sed do</br> euismod tempor</br> incididunt ut lobore.</p>    
+        </div>
+      </div>
+      <div>
+        <script>
+            let popup=document.getElementById("popup");
+            function openPopup(){
+              popup.classList.add("open-popup");
+            }
+            function closePopup(){
+              popup.classList.remove("open-popup");
+            }
+          </script>
+      </div>
+</body>
+</html>

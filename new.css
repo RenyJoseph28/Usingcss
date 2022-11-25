@@ -1,0 +1,217 @@
+.btn{
+    background-color:white;
+    top: 50%;
+    border: none;
+    color:black;
+    display: inline-block;
+    width: 130px;
+    height: 35px;
+    text-align: center;
+border-top-left-radius:25px;  
+border-top-right-radius:25px;  
+border-bottom-right-radius:25px;  
+border-bottom-left-radius:25px; 
+box-shadow: 0px 0px 2px 2px rgb(190, 183, 183);
+}
+h1{
+    padding-top: 80px;
+    font-size: 45px;
+}
+.container{
+    display: flex;
+    margin-left: 100px;
+
+}
+.div1{
+    margin-left: 200px;
+}
+.pp{
+    font-size: 20px;
+   
+}
+.cols{
+  margin-left: -8px;
+    
+    color: aliceblue;
+    background-color: rgb(31, 17, 44);
+
+    width: 1350px;
+    height: 200px;
+    text-align: center;
+    padding-top: 10px;
+    
+
+}
+.b1{
+    background-color: blueviolet;
+    color: aliceblue;
+    width: 130px;
+    height: 30px;
+    text-align: center;
+    border: 0ch;
+border-top-left-radius:25px;  
+border-top-right-radius:25px;  
+border-bottom-right-radius:25px;  
+border-bottom-left-radius:25px; 
+}
+.col1{ 
+    
+    margin: 80px;
+    margin-left: 250px;
+    
+    margin-top: 90px;
+    box-shadow: 2px 2px 2px 2px  rgb(202, 191, 191);
+      border: 2px;
+      width: 200px;
+      height: 300px;
+      background-image: url("data:image/svg+xml,%3Csvg class='style' xmlns:dc='http://purl.org/dc/elements/1.1/' xmlns:cc='http://creativecommons.org/ns%23' xmlns:rdf='http://www.w3.org/1999/02/22-rdf-syntax-ns%23' xmlns:svg='http://www.w3.org/2000/svg' xmlns='http://www.w3.org/2000/svg' xmlns:sodipodi='http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd' xmlns:inkscape='http://www.inkscape.org/namespaces/inkscape' id='ad0c1ec4-bb95-45b0-bb15-db7da0a16091' data-name='Layer 1' width='974' height='757.15033' viewBox='0 0 974 757.15033' version='1.1' sodipodi:docname='ui_task_3.svg' inkscape:version='0.92.2 (5c3e80d, 2017-08-06)'%3E%3Cmetadata id='metadata101'%3E%3Crdf:RDF%3E%3Ccc:Work rdf:about=''%3E%3Cdc:format%3Eimage/svg+xml%3C/dc:format%3E%3Cdc:type rdf:resource='http://purl.org/dc/dcmitype/StillImage'/%3E%3Cdc:title%3Ecreative experiment%3C/dc:title%3E%3C/cc:Work%3E%3C/rdf:RDF%3E%3C/metadata%3E%3Cdefs id='defs99'/%3E%3Csodipodi:namedview pagecolor='%23ffffff' bordercolor='%23666666' borderopacity='1' objecttolerance='10' gridtolerance='10' guidetolerance='10' inkscape:pageopacity='0' inkscape:pageshadow='2' inkscape:window-width='1366' inkscape:window-height='708' id='namedview97' showgrid='false' inkscape:pagecheckerboard='true' inkscape:zoom='0.44080335' inkscape:cx='487' inkscape:cy='378.57516' inkscape:window-x='0' inkscape:window-y='28' inkscape:window-maximized='1' inkscape:current-layer='ad0c1ec4-bb95-45b0-bb15-db7da0a16091'/%3E%3Ctitle id='title2'%3Ecreative experiment%3C/title%3E%3Crect x='5.63138' y='90.73492' width='50.000034' height='50.000034' transform='rotate(-42.40973)' id='rect32' style='fill:%236c63ff'/%3E --%3E%3Crect x='14.63144' y='82.73492' width='50.000034' height='50.000034' transform='rotate(-42.40973)' stroke-miterlimit='10' id='rect34' style='fill:none;stroke:%233f3d56;stroke-width:2;stroke-miterlimit:10'/%3E --%3E%3C/svg%3E ");
+  }
+  
+  .p1{
+    
+    border: 2px;
+    width: 200px;
+    height: 300px;
+    text-align: left;
+    padding-left: 10px;
+    padding-top: 150px;
+   }
+   .col2{
+    
+    margin: 80px;
+    margin-left: 10px;
+    margin-top: 90px;
+    
+    box-shadow: 2px 2px 2px 2px  rgb(202, 191, 191);
+      border: 2px;
+      width: 200px;
+      height: 300px;
+      background-image: url("data:image/svg+xml,%3Csvg class='style' xmlns:dc='http://purl.org/dc/elements/1.1/' xmlns:cc='http://creativecommons.org/ns%23' xmlns:rdf='http://www.w3.org/1999/02/22-rdf-syntax-ns%23' xmlns:svg='http://www.w3.org/2000/svg' xmlns='http://www.w3.org/2000/svg' xmlns:sodipodi='http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd' xmlns:inkscape='http://www.inkscape.org/namespaces/inkscape' id='ad0c1ec4-bb95-45b0-bb15-db7da0a16091' data-name='Layer 1' width='974' height='757.15033' viewBox='0 0 974 757.15033' version='1.1' sodipodi:docname='ui_task_3.svg' inkscape:version='0.92.2 (5c3e80d, 2017-08-06)'%3E%3Cmetadata id='metadata101'%3E%3Crdf:RDF%3E%3Ccc:Work rdf:about=''%3E%3Cdc:format%3Eimage/svg+xml%3C/dc:format%3E%3Cdc:type rdf:resource='http://purl.org/dc/dcmitype/StillImage'/%3E%3Cdc:title%3Ecreative experiment%3C/dc:title%3E%3C/cc:Work%3E%3C/rdf:RDF%3E%3C/metadata%3E%3Cdefs id='defs99'/%3E%3Csodipodi:namedview pagecolor='%23ffffff' bordercolor='%23666666' borderopacity='1' objecttolerance='10' gridtolerance='10' guidetolerance='10' inkscape:pageopacity='0' inkscape:pageshadow='2' inkscape:window-width='1366' inkscape:window-height='708' id='namedview97' showgrid='false' inkscape:pagecheckerboard='true' inkscape:zoom='0.44080335' inkscape:cx='487' inkscape:cy='378.57516' inkscape:window-x='0' inkscape:window-y='28' inkscape:window-maximized='1' inkscape:current-layer='ad0c1ec4-bb95-45b0-bb15-db7da0a16091'/%3E%3Ctitle id='title2'%3Ecreative experiment%3C/title%3E%3Ccircle cx='100' cy='65.90033' r='21' id='circle36' style='fill:%236c63ff'/%3E --%3E%3Ccircle cx='94' cy='59.90033' r='21' stroke-miterlimit='10' id='circle38' style='fill:none;stroke:%233f3d56;stroke-width:2;stroke-miterlimit:10'/%3E --%3E%3C/svg%3E"); 
+   }
+   .p2{
+    
+    border: 2px;
+    width: 200px;
+    height: 300px;
+    text-align: left;
+    padding-left: 10px;
+    padding-top: 150px;
+   }
+   .col3{
+    margin: 5px;
+    margin-top: 90px;
+    
+    
+    
+    box-shadow: 2px 2px 2px 2px  rgb(202, 191, 191);
+      border: 2px;
+      width: 200px;
+      height: 300px;
+      background-image: url("data:image/svg+xml,%3Csvg class='style' xmlns:dc='http://purl.org/dc/elements/1.1/' xmlns:cc='http://creativecommons.org/ns%23' xmlns:rdf='http://www.w3.org/1999/02/22-rdf-syntax-ns%23' xmlns:svg='http://www.w3.org/2000/svg' xmlns='http://www.w3.org/2000/svg' xmlns:sodipodi='http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd' xmlns:inkscape='http://www.inkscape.org/namespaces/inkscape' id='ad0c1ec4-bb95-45b0-bb15-db7da0a16091' data-name='Layer 1' width='974' height='757.15033' viewBox='0 0 974 757.15033' version='1.1' sodipodi:docname='ui_task_3.svg' inkscape:version='0.92.2 (5c3e80d, 2017-08-06)'%3E%3Cmetadata id='metadata101'%3E%3Crdf:RDF%3E%3Ccc:Work rdf:about=''%3E%3Cdc:format%3Eimage/svg+xml%3C/dc:format%3E%3Cdc:type rdf:resource='http://purl.org/dc/dcmitype/StillImage'/%3E%3Cdc:title%3Ecreative experiment%3C/dc:title%3E%3C/cc:Work%3E%3C/rdf:RDF%3E%3C/metadata%3E%3Cdefs id='defs99'/%3E%3Csodipodi:namedview pagecolor='%23ffffff' bordercolor='%23666666' borderopacity='1' objecttolerance='10' gridtolerance='10' guidetolerance='10' inkscape:pageopacity='0' inkscape:pageshadow='2' inkscape:window-width='1366' inkscape:window-height='708' id='namedview97' showgrid='false' inkscape:pagecheckerboard='true' inkscape:zoom='0.44080335' inkscape:cx='487' inkscape:cy='378.57516' inkscape:window-x='0' inkscape:window-y='28' inkscape:window-maximized='1' inkscape:current-layer='ad0c1ec4-bb95-45b0-bb15-db7da0a16091'/%3E%3Ctitle id='title2'%3Ecreative experiment%3C/title%3E%3Cpolygon points='713.068,440.287 738.201,454.754 713.105,469.287 688.01,483.82 687.972,454.82 687.934,425.82 ' id='polygon40' transform='translate(-600.14633,-400.75063)' style='fill:%236c63ff'/%3E%3Cpolygon points='709.028,451.271 734.162,465.738 709.066,480.271 683.97,494.803 683.932,465.803 683.895,436.803 ' stroke-miterlimit='10' id='polygon42' transform='translate(-600.14633,-400.75063)' style='fill:none;stroke:%233f3d56;stroke-width:2;stroke-miterlimit:10'/%3E%3C/svg%3E");
+  }
+  .p3{
+    border: 2px;
+    width: 200px;
+    height: 300px;
+    text-align: left;
+    padding-left: 10px;
+    padding-top: 150px;
+  }
+  .popup{
+    width: 400px;
+    height: 350px;
+    background-color: rgb(252, 249, 249);
+    border-radius: 6px;
+    position: absolute;
+    top: 0;
+    left: 50%;
+    transform: translate(-50%,-50%)scale(0.1);
+    padding: 0 30px 30px;
+    visibility: hidden;
+    transition:transform 0.4s,top 0.4s;
+    
+  }  
+  .open-popup{
+    visibility: visible;
+    top: 50%;
+    transform: translate(-50%,-50%)scale(1);
+  }
+  .b{
+    color: aliceblue;
+  background-color: rgb(45, 13, 73);
+   width: 140px;
+   height:40px ;
+  text-align: center;
+  margin-top: 50px;
+  margin-left: 135px;
+  border: none;
+  }
+  
+  h2{
+    margin: 0;
+    
+    margin-left: -27px;
+    width: 456px;
+    height: 50px;
+    color: aliceblue;
+    background-color: rgb(45, 15, 73);
+  }
+  .form-control1{
+    width: 400px;
+    height: 40px;
+    background-color: rgb(128, 128, 117);
+    border: 0ch;
+    border-radius: 3px;
+  }
+  .form-control2{
+    width: 400px;
+    height: 40px;
+    background-color: rgb(128, 128, 117);
+    border: 0ch;
+    border-radius: 3px;
+  }
+  .class1{
+    display: flex;
+  }
+  
+  li {
+    display: inline;
+    padding-left: 30px;
+    font-size: medium;
+  }
+  ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color:white;
+  }
+  .li1{
+    font-size:x-large;
+  }
+  .nav-right{
+    float: right;
+  }
+  .li2{
+    font-size: 20px;
+  }
+  .li3{
+    font-size: 20px;
+  }
+  .li4{
+    font-size: 20px;
+  }
+  .li5{
+    font-size: 20px;
+    padding-right: 50px;
+  }
+  .pbox{
+    font-size: 30px;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    
+  }
+  .p8{
+    font-size: 18px;
+    
+    
+  }
