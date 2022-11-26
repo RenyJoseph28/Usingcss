@@ -8,7 +8,7 @@
     <link rel="stylesheet" href="./new.css">
 </head>
 <body>
-  <div class="nav">
+  <!-- <div class="nav" style="border: 1px solid black;">
     <ul>
       <li class="li1">LOGO</li>
       <div class="nav-right">
@@ -18,14 +18,37 @@
       <li class="li5">Support</li>
     </div>
     </ul>
+  </div> -->
+  <div class="nav">
+    <input type="checkbox" id="nav-check">
+    <div class="nav-header">
+      <div class="nav-title">
+        LOGO
+      </div>
+    </div>
+    <div class="nav-btn">
+      <label for="nav-check">
+        <span></span>
+        <span></span>
+        <span></span>
+      </label>
+    </div>
+    
+    <div class="nav-links">
+      <a href="#" target="_blank">About</a>
+      <a href="#" target="_blank">Blog</a>
+      <a href="#" target="_blank">Careers</a>
+      <a href="#" target="_blank">Support</a>
+    </div>
   </div>
-    <div class="container">
+
+<div class="container">
       
         <div>
         <h1>Always Look</br> On The Bright</br> Side Of Life.
            </h1>
        <p class="pp">Lorem ipsum dolor sit amet, consectetur</br> adipisicing elit, sed do euismod tempor</br> incididunt ut lobore.</p>   
-    <button class="btn" type="button" onclick="openPopup()">Login</button>
+    <button class="btn btn-1" type="button" onclick="openPopup()">Login</button>
     </div>
     <div class="popup" id="popup">
         <h2 >Login</h2></br></br>
@@ -36,10 +59,13 @@
         <a href="">forgot password ?</a></br>
         <button class="b" type="button" onclick="closePopup()">Login</button>
     </div>
-    <div class="div1">
-<img src="ui_task_4.svg" width="500" height="500"/></div>
+  <div class="div1">
+      <img class="img-1" src="ui_task_4.svg" width="500" height="500"/></div>
+</div>
 
-    </div>
+
+
+
     <div class="container-fluid">
     <div class="cols">
         <p class="pbox">Need Help?</p>
