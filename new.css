@@ -215,3 +215,242 @@ border-bottom-left-radius:25px;
     
     
   }
+  @media  (min-width: 1400px) {
+    .class1{
+      margin-left: 86px;
+
+    }
+    .div1{
+      margin-left: 356px;
+    }
+    .nav-links{
+      margin-right: 10px;
+    }
+
+
+  }
+
+  @media (max-width: 1285px) { 
+
+    .div1{
+      margin-left: 65px;
+    }
+
+    .class1{
+      margin-left: -63px;
+
+    }
+
+    .nav-links{
+      margin-right: 51px;
+    }
+.cols{
+margin-left: 0px;
+}
+
+   }
+
+   @media (max-width: 992px) { 
+
+    /* .nav-btn{
+      margin-right: 13px;
+    } */
+
+    .nav > .nav-btn {
+      display: inline-block;
+      position: absolute;
+      right: 0px;
+      top: 0px;
+      background: black;
+      margin-right: -197px;
+    }
+    .nav > .nav-btn > label {
+      display: inline-block;
+      width: 50px;
+      height: 50px;
+      padding: 13px;
+    }
+    .nav > .nav-btn > label:hover,.nav  #nav-check:checked ~ .nav-btn > label {
+      background-color: rgba(0, 0, 0, 0.3);
+    }
+    .nav > .nav-btn > label > span {
+      display: block;
+      width: 25px;
+      height: 10px;
+      border-top: 2px solid #eee;
+    }
+    .nav > .nav-links {
+      position: absolute;
+      display: block;
+      width: 100%;
+      background-color:white;
+      height: 0px;
+      transition: all 0.3s ease-in;
+      overflow-y: hidden;
+      top: 50px;
+      left: 0px;
+    }
+    .nav > .nav-links > a {
+      display: block;
+      width: 100%;
+    }
+    .nav > #nav-check:not(:checked) ~ .nav-links {
+      height: 0px;
+    }
+    .nav > #nav-check:checked ~ .nav-links {
+      height: calc(100vh - 50px);
+      overflow-y: auto;
+    }
+
+
+    .container{
+      margin-left: 420px;
+    }
+    .container div h1{
+      font-size: 53px;
+    }
+    .btn-1{
+      margin-left: 77px;
+    }
+
+    .div1{
+      margin-left: -107px;
+
+    }
+    .cols{
+      width: 124%;
+    }
+    .class1{
+      margin-left: -45px;
+    }
+
+
+   }
+
+   
+   
+   
+   
+   
+   @media (max-width: 768px){
+
+    .nav > .nav-btn {
+      display: inline-block;
+      position: absolute;
+      right: 0px;
+      top: 0px;
+      background: black;
+      margin-right: -375px;
+    }
+    .nav > .nav-btn > label {
+      display: inline-block;
+      width: 50px;
+      height: 50px;
+      padding: 13px;
+    }
+    .nav > .nav-btn > label:hover,.nav  #nav-check:checked ~ .nav-btn > label {
+      background-color: rgba(0, 0, 0, 0.3);
+    }
+    .nav > .nav-btn > label > span {
+      display: block;
+      width: 25px;
+      height: 10px;
+      border-top: 2px solid #eee;
+    }
+    .nav > .nav-links {
+      position: absolute;
+      display: block;
+      width: 100%;
+      background-color:white;
+      height: 0px;
+      transition: all 0.3s ease-in;
+      overflow-y: hidden;
+      top: 50px;
+      left: 0px;
+    }
+    .nav > .nav-links > a {
+      display: block;
+      width: 100%;
+    }
+    .nav > #nav-check:not(:checked) ~ .nav-links {
+      height: 0px;
+    }
+    .nav > #nav-check:checked ~ .nav-links {
+      height: calc(100vh - 50px);
+      overflow-y: auto;
+    }
+
+    .container{
+      margin-left: 377px;
+  width: 100%;
+    }
+    .div1{
+      margin-left: -62px;
+    }
+
+    .cols{
+      width: 164%;
+    }
+    .class1{
+      margin-left: -100px;
+    }
+    
+   }
+
+   @media (max-width: 576px){
+    .nav > .nav-btn {
+      display: inline-block;
+      position: absolute;
+      right: 0px;
+      top: 0px;
+      background: black;
+      margin-right: -513px
+
+    }
+    .container{
+      margin-left: 365px;
+      width: 100%;
+    }
+    .cols{
+      width: 250%;
+    }
+    .class1{
+      margin-left: -161px;
+    }
+
+   }
+
+   @media (max-width: 357.98px) { 
+    
+
+    .nav > .nav-btn {
+      display: inline-block;
+      position: absolute;
+      right: 0px;
+      top: 0px;
+      background: black;
+      margin-right: -514px
+
+    }
+
+    .div1{
+      margin-left: -100px;
+    }
+    .cols{
+      width: 244%;
+    }
+    .class1{
+      margin-left: -200px;
+      
+    }
+    .popup{
+      width: 127%;
+      margin-left: 240px;
+    }
+    .container{
+      margin-left: 283px;
+  width: 100%;
+}
+    }
+
+    
