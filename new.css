@@ -215,7 +215,7 @@ border-bottom-left-radius:25px;
     
     
   }
-  @media  (min-width: 1400px) {
+  @media  (max-width: 1400px) {
     .class1{
       margin-left: 86px;
 
